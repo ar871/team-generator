@@ -7,7 +7,7 @@ const fs = require("fs");
 const render = require("./src/page-template.js");
 
 const OUTPUT_DIR = resolve(__dirname, "");
-const outputPath = join(OUTPUT_DIR, "team.html");
+const outputPath = join(OUTPUT_DIR, "index.html");
 const team = [];
 
 function start () {
