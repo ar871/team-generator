@@ -1,4 +1,4 @@
-#Team Generator
+##Team Generator
 
 #Use
 My team generator allows you to keep track of all employees in your company by displaying them on a webpage. It will ask you details on each employee and will them make a card for them on a webpage.
