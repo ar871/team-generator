@@ -9,4 +9,5 @@ To use my team generator, go ahead and download my code. Then make sure you have
 Below is a screen shot of how the information will look on a webpage
 ![Alt text](assets/screenshot.jpg)
 
-Here is the deployed website
+Here is the deployed website:
+https://ar871.github.io/team-generator/
