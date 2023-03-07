@@ -6,8 +6,8 @@ My team generator is ran in the terminal and will construct a webpage displaying
 
 ## installtion
 
-you can download my code and use is straight away. You will need to run and insall the inqurier npm to make my team genertor work
+You can download my code and use is straight away. You will need to run and insall the inqurier npm to make my team genertor work
 
 
 Below is a example of how the information wll be displayed on a webpage 
-![Alt text](assets/team.jpg)
+![Alt text](assets/screenshot.jpg)

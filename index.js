@@ -6,7 +6,7 @@ const { resolve, join } = require("path");
 const fs = require("fs");
 const render = require("./src/page-template.js");
 
-const OUTPUT_DIR = resolve(__dirname, "output");
+const OUTPUT_DIR = resolve(__dirname, "");
 const outputPath = join(OUTPUT_DIR, "team.html");
 const team = [];
 
@@ -125,7 +125,7 @@ function start () {
 
     // Function to output the team roster html page
     function generateOutput() {
-        fs.mkdirSync("output", { recursive: true }, err => { throw err });
+     // fs.mkdirSync("", { recursive: true }, err => { throw err });
         fs.writeFileSync(outputPath, render(team), "utf-8");
         console.log("Team Roster generated successfully: " + outputPath);
     }
